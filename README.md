@@ -1,1 +1,1 @@
-# Classifying-Handwriting-with-ML
+# Classifying-Handwriting-With-ML
